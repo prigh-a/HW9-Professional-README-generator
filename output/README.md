@@ -62,12 +62,6 @@
 
   asdf
   
-  ## Questions
-
-  If you have any questions about the project you can reach out to me via email or GitHub with the information below. 
-
-  >Email: abc@gmail.com 
-
-  >GitHub : [asdf](https://github.com/undefined)
+  
 
   
